@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Splash Screen Jetpack</string>
+    <string name="place_holder">Search</string>
+    <string name="batman">BATMAN</string>
+    <string name="lucy">LUCY</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="sugerencias">SUGERENCIAS</string>
+    <string name="tendencias">TENDENCIAS</string>
+    <string name="continuar">SEGUIR VIENDO</string>
+    <string name="volver">VOLVER A VER</string>
+</resources>
